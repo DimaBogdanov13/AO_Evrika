@@ -1,0 +1,7 @@
+.idea
+cmake-build-*
+out/*
+build/*
+CMakeLists.txt.user
+.DS_Store
+.qmlls.ini
