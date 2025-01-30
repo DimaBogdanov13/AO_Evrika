@@ -1,2 +1,0 @@
-set(__QT_DEPLOY_TARGET_appAO_Evrika_FILE /Users/dimabogdanov/QtProjects/AO_Evrika/build/Qt_6_8_1_macos-Debug/appAO_Evrika.app/Contents/MacOS/appAO_Evrika)
-set(__QT_DEPLOY_TARGET_appAO_Evrika_TYPE EXECUTABLE)

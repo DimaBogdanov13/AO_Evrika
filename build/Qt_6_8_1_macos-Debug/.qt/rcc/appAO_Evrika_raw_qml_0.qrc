@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/AO_Evrika/">
-    <file alias="Main.qml">/Users/dimabogdanov/QtProjects/AO_Evrika/Main.qml</file>
-  </qresource>
-</RCC>
-

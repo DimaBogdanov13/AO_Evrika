@@ -1,6 +1,0 @@
-<RCC>
-  <qresource prefix="/qt/qml/AO_Evrika">
-    <file alias="qmldir">/Users/dimabogdanov/QtProjects/AO_Evrika/build/Qt_6_8_1_macos-Debug/AO_Evrika/qmldir</file>
-  </qresource>
-</RCC>
-
