@@ -1,0 +1,1159 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "appAO_Evrika.app/Contents/MacOS/appAO_Evrika"
+		}
+	],
+	"backtrace" : 4,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"_qt_internal_create_executable",
+			"qt6_add_executable",
+			"qt_add_executable",
+			"install",
+			"target_link_libraries",
+			"set_target_properties",
+			"include",
+			"find_package",
+			"find_dependency",
+			"_qt_internal_find_qt_dependencies",
+			"qt6_add_qml_module",
+			"qt_add_qml_module",
+			"_qt_internal_find_third_party_dependencies",
+			"add_dependencies",
+			"qt6_target_qml_sources",
+			"_populate_qmlls_ini_file",
+			"_qt_internal_write_deferred_qmlls_ini_file",
+			"_qt_internal_scan_qml_imports",
+			"_qt_internal_generate_deploy_qml_imports_script",
+			"cmake_language",
+			"_qt_internal_finalize_executable",
+			"qt6_finalize_target",
+			"target_include_directories",
+			"_qt_internal_qml_type_registration",
+			"target_sources",
+			"qt6_extract_metatypes",
+			"__qt_propagate_generated_resource",
+			"_qt_internal_process_resource",
+			"qt6_add_resources",
+			"_qt_internal_target_enable_qmlcachegen",
+			"_qt_internal_expose_deferred_files_to_ide"
+		],
+		"files" : 
+		[
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake",
+			"CMakeLists.txt",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Quick/Qt6QuickTargets.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Quick/Qt6QuickConfig.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6/Qt6Config.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6QmlMeta/Qt6QmlMetaTargets.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6QmlMeta/Qt6QmlMetaConfig.cmake",
+			"/opt/homebrew/Cellar/cmake/3.31.5/share/cmake/Modules/CMakeFindDependencyMacro.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6/QtPublicDependencyHelpers.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Quick/Qt6QuickDependencies.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Qml/Qt6QmlTargets.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Qml/Qt6QmlConfig.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6/FindWrapOpenGL.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Gui/Qt6GuiDependencies.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Gui/Qt6GuiConfig.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Gui/Qt6GuiTargets.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Core/Qt6CoreTargets.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Core/Qt6CoreConfig.cmake",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Qml/Qt6QmlMacros.cmake:1000:EVAL",
+			"/Users/dimabogdanov/Qt6/6.8.1/macos/lib/cmake/Qt6Core/Qt6CoreMacros.cmake:792:EVAL"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 1
+			},
+			{
+				"command" : 3,
+				"file" : 1,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 945,
+				"parent" : 1
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 646,
+				"parent" : 2
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 695,
+				"parent" : 3
+			},
+			{
+				"command" : 4,
+				"file" : 1,
+				"line" : 38,
+				"parent" : 0
+			},
+			{
+				"command" : 5,
+				"file" : 1,
+				"line" : 33,
+				"parent" : 0
+			},
+			{
+				"command" : 8,
+				"file" : 1,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"file" : 4,
+				"parent" : 7
+			},
+			{
+				"command" : 8,
+				"file" : 4,
+				"line" : 181,
+				"parent" : 8
+			},
+			{
+				"file" : 3,
+				"parent" : 9
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 55,
+				"parent" : 10
+			},
+			{
+				"file" : 2,
+				"parent" : 11
+			},
+			{
+				"command" : 6,
+				"file" : 2,
+				"line" : 62,
+				"parent" : 12
+			},
+			{
+				"command" : 7,
+				"file" : 3,
+				"line" : 43,
+				"parent" : 10
+			},
+			{
+				"file" : 9,
+				"parent" : 14
+			},
+			{
+				"command" : 10,
+				"file" : 9,
+				"line" : 43,
+				"parent" : 15
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 143,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 17
+			},
+			{
+				"file" : 6,
+				"parent" : 18
+			},
+			{
+				"command" : 7,
+				"file" : 6,
+				"line" : 55,
+				"parent" : 19
+			},
+			{
+				"file" : 5,
+				"parent" : 20
+			},
+			{
+				"command" : 6,
+				"file" : 5,
+				"line" : 62,
+				"parent" : 21
+			},
+			{
+				"command" : 12,
+				"file" : 1,
+				"line" : 15,
+				"parent" : 0
+			},
+			{
+				"command" : 11,
+				"file" : 10,
+				"line" : 1232,
+				"parent" : 23
+			},
+			{
+				"command" : 5,
+				"file" : 10,
+				"line" : 591,
+				"parent" : 24
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 143,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 26
+			},
+			{
+				"file" : 12,
+				"parent" : 27
+			},
+			{
+				"command" : 7,
+				"file" : 12,
+				"line" : 58,
+				"parent" : 28
+			},
+			{
+				"file" : 11,
+				"parent" : 29
+			},
+			{
+				"command" : 6,
+				"file" : 11,
+				"line" : 62,
+				"parent" : 30
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 143,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 32
+			},
+			{
+				"file" : 15,
+				"parent" : 33
+			},
+			{
+				"command" : 7,
+				"file" : 15,
+				"line" : 43,
+				"parent" : 34
+			},
+			{
+				"file" : 14,
+				"parent" : 35
+			},
+			{
+				"command" : 13,
+				"file" : 14,
+				"line" : 35,
+				"parent" : 36
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 36,
+				"parent" : 37
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 38
+			},
+			{
+				"file" : 13,
+				"parent" : 39
+			},
+			{
+				"command" : 5,
+				"file" : 13,
+				"line" : 48,
+				"parent" : 40
+			},
+			{
+				"command" : 7,
+				"file" : 15,
+				"line" : 55,
+				"parent" : 34
+			},
+			{
+				"file" : 16,
+				"parent" : 42
+			},
+			{
+				"command" : 6,
+				"file" : 16,
+				"line" : 62,
+				"parent" : 43
+			},
+			{
+				"command" : 5,
+				"file" : 0,
+				"line" : 647,
+				"parent" : 2
+			},
+			{
+				"command" : 9,
+				"file" : 8,
+				"line" : 143,
+				"parent" : 16
+			},
+			{
+				"command" : 8,
+				"file" : 7,
+				"line" : 76,
+				"parent" : 46
+			},
+			{
+				"file" : 18,
+				"parent" : 47
+			},
+			{
+				"command" : 7,
+				"file" : 18,
+				"line" : 57,
+				"parent" : 48
+			},
+			{
+				"file" : 17,
+				"parent" : 49
+			},
+			{
+				"command" : 6,
+				"file" : 17,
+				"line" : 62,
+				"parent" : 50
+			},
+			{
+				"command" : 15,
+				"file" : 10,
+				"line" : 896,
+				"parent" : 24
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 3263,
+				"parent" : 52
+			},
+			{
+				"file" : 1,
+				"line" : -1,
+				"parent" : 0
+			},
+			{
+				"command" : 17,
+				"file" : 19,
+				"line" : 1,
+				"parent" : 54
+			},
+			{
+				"command" : 16,
+				"file" : 10,
+				"line" : 1223,
+				"parent" : 55
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 1263,
+				"parent" : 56
+			},
+			{
+				"command" : 22,
+				"file" : 20,
+				"line" : 1,
+				"parent" : 54
+			},
+			{
+				"command" : 21,
+				"file" : 0,
+				"line" : 823,
+				"parent" : 58
+			},
+			{
+				"command" : 20,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 59
+			},
+			{
+				"command" : 19,
+				"file" : 0,
+				"line" : 745,
+				"parent" : 60
+			},
+			{
+				"command" : 18,
+				"file" : 10,
+				"line" : 4102,
+				"parent" : 61
+			},
+			{
+				"command" : 14,
+				"file" : 10,
+				"line" : 3915,
+				"parent" : 62
+			},
+			{
+				"command" : 24,
+				"file" : 10,
+				"line" : 785,
+				"parent" : 24
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3643,
+				"parent" : 64
+			},
+			{
+				"command" : 23,
+				"file" : 10,
+				"line" : 3668,
+				"parent" : 64
+			},
+			{
+				"command" : 26,
+				"file" : 10,
+				"line" : 3468,
+				"parent" : 64
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 1500,
+				"parent" : 67
+			},
+			{
+				"command" : 25,
+				"file" : 10,
+				"line" : 3634,
+				"parent" : 64
+			},
+			{
+				"command" : 29,
+				"file" : 10,
+				"line" : 839,
+				"parent" : 24
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 70
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2491,
+				"parent" : 71
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 72
+			},
+			{
+				"command" : 25,
+				"file" : 10,
+				"line" : 2998,
+				"parent" : 52
+			},
+			{
+				"command" : 30,
+				"file" : 10,
+				"line" : 3135,
+				"parent" : 52
+			},
+			{
+				"command" : 25,
+				"file" : 10,
+				"line" : 1698,
+				"parent" : 75
+			},
+			{
+				"command" : 25,
+				"file" : 10,
+				"line" : 3191,
+				"parent" : 52
+			},
+			{
+				"command" : 29,
+				"file" : 10,
+				"line" : 3283,
+				"parent" : 52
+			},
+			{
+				"command" : 28,
+				"file" : 0,
+				"line" : 406,
+				"parent" : 78
+			},
+			{
+				"command" : 27,
+				"file" : 0,
+				"line" : 2491,
+				"parent" : 79
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2089,
+				"parent" : 80
+			},
+			{
+				"command" : 31,
+				"file" : 0,
+				"line" : 817,
+				"parent" : 58
+			},
+			{
+				"command" : 25,
+				"file" : 0,
+				"line" : 2212,
+				"parent" : 82
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-DQT_QML_DEBUG -g -std=gnu++17 -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -mmacosx-version-min=14.6 -fcolor-diagnostics"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 45,
+					"define" : "QT_CORE_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_GUI_LIB"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "QT_NETWORK_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_OPENGL_LIB"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "QT_QMLINTEGRATION_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMETA_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLMODELS_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QMLWORKERSCRIPT_LIB"
+				},
+				{
+					"backtrace" : 25,
+					"define" : "QT_QML_LIB"
+				},
+				{
+					"backtrace" : 6,
+					"define" : "QT_QUICK_LIB"
+				}
+			],
+			"frameworks" : 
+			[
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtCore.framework"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQml.framework"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtNetwork.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQuick.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtGui.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlMeta.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlModels.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlWorkerScript.framework"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtOpenGL.framework"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 0,
+					"path" : "/Users/dimabogdanov/QtProjects/AO_Evrika/build/Qt_6_8_1_macos-Debug/appAO_Evrika_autogen/include"
+				},
+				{
+					"backtrace" : 65,
+					"path" : "/Users/dimabogdanov/QtProjects/AO_Evrika"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQml.framework/Versions/A/Headers/6.8.1"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQml.framework/Versions/A/Headers/6.8.1/QtQml"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/6.8.1"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtCore.framework/Versions/A/Headers/6.8.1/QtCore"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtCore.framework/Headers"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/mkspecs/macx-clang"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/include"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQml.framework/Headers"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/include/QtQmlIntegration"
+				},
+				{
+					"backtrace" : 66,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtNetwork.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQuick.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtGui.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlMeta.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlModels.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlWorkerScript.framework/Headers"
+				},
+				{
+					"backtrace" : 6,
+					"isSystem" : true,
+					"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtOpenGL.framework/Headers"
+				}
+			],
+			"language" : "CXX",
+			"languageStandard" : 
+			{
+				"backtraces" : 
+				[
+					45
+				],
+				"standard" : "17"
+			},
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				3,
+				4,
+				6,
+				7,
+				8
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 53,
+			"id" : "appAO_Evrika_tooling::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 57,
+			"id" : "appAO_Evrika_generate_qmlls_ini_file::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 63,
+			"id" : "appAO_Evrika_qmlimportscan::@6890427a1f51a3e7e1df"
+		},
+		{
+			"id" : "appAO_Evrika_autogen_timestamp_deps::@6890427a1f51a3e7e1df"
+		},
+		{
+			"backtrace" : 0,
+			"id" : "appAO_Evrika_autogen::@6890427a1f51a3e7e1df"
+		}
+	],
+	"id" : "appAO_Evrika::@6890427a1f51a3e7e1df",
+	"install" : 
+	{
+		"destinations" : 
+		[
+			{
+				"backtrace" : 5,
+				"path" : "."
+			}
+		],
+		"prefix" : 
+		{
+			"path" : "/usr/local"
+		}
+	},
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-DQT_QML_DEBUG -g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-F/Users/dimabogdanov/Qt6/6.8.1/macos/lib",
+				"role" : "frameworkPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/Users/dimabogdanov/Qt6/6.8.1/macos/lib",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQuick.framework/Versions/A/QtQuick",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlMeta.framework/Versions/A/QtQmlMeta",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 22,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlWorkerScript.framework/Versions/A/QtQmlWorkerScript",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQmlModels.framework/Versions/A/QtQmlModels",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 25,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtQml.framework/Versions/A/QtQml",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 31,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtNetwork.framework/Versions/A/QtNetwork",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtOpenGL.framework/Versions/A/QtOpenGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 13,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtGui.framework/Versions/A/QtGui",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 41,
+				"fragment" : "-framework OpenGL",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-framework AGL",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-framework AppKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-framework ImageIO",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 44,
+				"fragment" : "-framework Metal",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 45,
+				"fragment" : "/Users/dimabogdanov/Qt6/6.8.1/macos/lib/QtCore.framework/Versions/A/QtCore",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 51,
+				"fragment" : "-framework IOKit",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 51,
+				"fragment" : "-framework DiskArbitration",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 51,
+				"fragment" : "-framework UniformTypeIdentifiers",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "appAO_Evrika",
+	"nameOnDisk" : "appAO_Evrika",
+	"paths" : 
+	{
+		"build" : ".",
+		"source" : "."
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files\\Generated",
+			"sourceIndexes" : 
+			[
+				0,
+				12,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30
+			]
+		},
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				1,
+				3,
+				4,
+				6,
+				7,
+				8
+			]
+		},
+		{
+			"name" : "",
+			"sourceIndexes" : 
+			[
+				2,
+				5,
+				10
+			]
+		},
+		{
+			"name" : "Resources",
+			"sourceIndexes" : 
+			[
+				9,
+				11
+			]
+		},
+		{
+			"name" : "CMake Rules",
+			"sourceIndexes" : 
+			[
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 0,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/appAO_Evrika_autogen/mocs_compilation.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 4,
+			"compileGroupIndex" : 0,
+			"path" : "main.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 68,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/meta_types/qt6appao_evrika_debug_metatypes.json.gen",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 69,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/appao_evrika_qmltyperegistrations.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 73,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.qt/rcc/qrc_qmake_AO_Evrika.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 74,
+			"path" : "Main.qml",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 76,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.rcc/qmlcache/appAO_Evrika_qmlcache_loader.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 77,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.rcc/qmlcache/appAO_Evrika_Main_qml.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 81,
+			"compileGroupIndex" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.qt/rcc/qrc_appAO_Evrika_raw_qml_0.cpp",
+			"sourceGroupIndex" : 1
+		},
+		{
+			"backtrace" : 83,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.qt/rcc/qmake_AO_Evrika.qrc",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 83,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/AO_Evrika/qmldir",
+			"sourceGroupIndex" : 2
+		},
+		{
+			"backtrace" : 83,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.qt/rcc/appAO_Evrika_raw_qml_0.qrc",
+			"sourceGroupIndex" : 3
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/appAO_Evrika_autogen/timestamp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/meta_types/qt6appao_evrika_debug_metatypes.json.gen.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/appao_evrika_qmltyperegistrations.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.qt/rcc/qrc_qmake_AO_Evrika.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.rcc/qmlcache/appAO_Evrika_qmlcache_loader.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.rcc/qmlcache/appAO_Evrika_Main_qml.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/.qt/rcc/qrc_appAO_Evrika_raw_qml_0.cpp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/appAO_Evrika_autogen/timestamp.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/meta_types/appAO_Evrika_json_file_list.txt.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 0,
+			"isGenerated" : true,
+			"path" : "build/Qt_6_8_1_macos-Debug/meta_types/qt6appao_evrika_debug_metatypes.json.rule",
+			"sourceGroupIndex" : 4
+		},
+		{
+			"backtrace" : 45,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6core_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 25,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6qml_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 25,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6network_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6quick_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6gui_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6qmlmeta_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6qmlmodels_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6qmlworkerscript_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 6,
+			"path" : "/Users/dimabogdanov/Qt6/6.8.1/macos/metatypes/qt6opengl_relwithdebinfo_metatypes.json",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

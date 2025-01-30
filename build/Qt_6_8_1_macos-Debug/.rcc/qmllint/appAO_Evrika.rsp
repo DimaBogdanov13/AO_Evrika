@@ -1,0 +1,10 @@
+--bare
+-I
+/Users/dimabogdanov/QtProjects/AO_Evrika/build/Qt_6_8_1_macos-Debug
+-I
+/Users/dimabogdanov/Qt6/6.8.1/macos/qml
+--resource
+/Users/dimabogdanov/QtProjects/AO_Evrika/build/Qt_6_8_1_macos-Debug/.qt/rcc/qmake_AO_Evrika.qrc
+--resource
+/Users/dimabogdanov/QtProjects/AO_Evrika/build/Qt_6_8_1_macos-Debug/.qt/rcc/appAO_Evrika_raw_qml_0.qrc
+/Users/dimabogdanov/QtProjects/AO_Evrika/Main.qml

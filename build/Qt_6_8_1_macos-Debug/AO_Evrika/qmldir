@@ -1,0 +1,5 @@
+module AO_Evrika
+typeinfo appAO_Evrika.qmltypes
+prefer :/qt/qml/AO_Evrika/
+Main 1.0 Main.qml
+

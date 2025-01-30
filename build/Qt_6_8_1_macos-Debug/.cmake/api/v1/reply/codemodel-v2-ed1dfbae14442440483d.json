@@ -1,0 +1,196 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-85efaf499e0e343a92fb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "AO_Evrika",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9,
+						10,
+						11,
+						12,
+						13,
+						14,
+						15
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "all_aotstats::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_aotstats-Debug-41e1e5242eab4842ef5d.json",
+					"name" : "all_aotstats",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint-Debug-d878fc74e1b6a4e96d23.json",
+					"name" : "all_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_json-Debug-24093cc4cba800b90b8f.json",
+					"name" : "all_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmllint_module-Debug-ee8e5b7d0f30b74defb9.json",
+					"name" : "all_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "all_qmltyperegistrations::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-all_qmltyperegistrations-Debug-c3003db105c90058c3ff.json",
+					"name" : "all_qmltyperegistrations",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika-Debug-ee35e6b427e1bfa1f7f1.json",
+					"name" : "appAO_Evrika",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_autogen-Debug-b57d2af531ad37b60b2b.json",
+					"name" : "appAO_Evrika_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_autogen_timestamp_deps-Debug-566352956873d7f46865.json",
+					"name" : "appAO_Evrika_autogen_timestamp_deps",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_generate_qmlls_ini_file::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_generate_qmlls_ini_file-Debug-a593ade790128a02a0b5.json",
+					"name" : "appAO_Evrika_generate_qmlls_ini_file",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_qmlimportscan::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_qmlimportscan-Debug-ecff0f2f169f5a55ded7.json",
+					"name" : "appAO_Evrika_qmlimportscan",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_qmllint::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_qmllint-Debug-94a534b33bb06064da7a.json",
+					"name" : "appAO_Evrika_qmllint",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_qmllint_json::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_qmllint_json-Debug-a44b10e08a1bdaad2c57.json",
+					"name" : "appAO_Evrika_qmllint_json",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_qmllint_module::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_qmllint_module-Debug-e831a3f4d907ea14e630.json",
+					"name" : "appAO_Evrika_qmllint_module",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_qmltyperegistration::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_qmltyperegistration-Debug-5a66b43a86c46a35cff9.json",
+					"name" : "appAO_Evrika_qmltyperegistration",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "appAO_Evrika_tooling::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-appAO_Evrika_tooling-Debug-785948cb49e85460ea4a.json",
+					"name" : "appAO_Evrika_tooling",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "module_appAO_Evrika_aotstats_target::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-module_appAO_Evrika_aotstats_target-Debug-80da0cdcc7a6128709f9.json",
+					"name" : "module_appAO_Evrika_aotstats_target",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/dimabogdanov/QtProjects/AO_Evrika/build/Qt_6_8_1_macos-Debug",
+		"source" : "/Users/dimabogdanov/QtProjects/AO_Evrika"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
