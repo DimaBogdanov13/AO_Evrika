@@ -104,6 +104,12 @@ HAVING COUNT(*)  <= 2  <br/>
 QString str = “Вася”;  <br/>
 int len = strlen( str.toLocal8Bit().data() ); <br/>
 
+QByteArray byte_array = str.toLocal8Bit().data(); //  str.toLocal8Bit().data() - это массив байтов <br/>
+qDebug() << "byte_array = " + byte_array; // выведем его в консоль и получим \xD0\x92\xD0\xB0\xD1\x81\xD1\x8F <br/>
+qDebug() << "len = " + QString::number(strlen(byte_array)); // strlen() - считает количество символов в строке у нас 8 символов разделённых \ <br/>
+Ответ: 8
+
+
 
 
 
