@@ -11,7 +11,7 @@ int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
 
-    printf("dfdsf");
+    printf("11111111111111");
 
     //qDebug() << " baData.count() =  " + QString::number(baData.count());
 
