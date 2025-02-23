@@ -1,20 +1,19 @@
+#include <QBuffer>
 #include <QGuiApplication>
 #include <QQmlApplicationEngine>
 #include <QQmlContext>
-
+#include <QRandomGenerator>
 #include "Backend.h"
+#include <iostream>
 
+using namespace std;
 int main(int argc, char *argv[])
 {
     QGuiApplication app(argc, argv);
 
-    Backend _backend;
+    printf("dfdsf");
 
-    QQmlApplicationEngine engine;
+    //qDebug() << " baData.count() =  " + QString::number(baData.count());
 
-    engine.rootContext()->setContextProperty("_backend", &_backend);
-
-    engine.loadFromModule("AO_Evrika", "Main");
-
-    return app.exec();
+    return 0;
 }
