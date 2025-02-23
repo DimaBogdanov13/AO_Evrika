@@ -13,7 +13,7 @@ Window {
 		anchors.centerIn: parent
 
 		onClicked: {
-			dialog.open()
+			dialog.open() //
 		}
 	}
 
